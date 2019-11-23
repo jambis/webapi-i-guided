@@ -18,3 +18,5 @@ The code for the guided project will be written in a single file for simplicity.
 
 Please follow along as the instructor builds the API step by step.
 Another test to merge conflict
+
+Testing merge Conflict
